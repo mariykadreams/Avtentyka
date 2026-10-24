@@ -1,0 +1,6 @@
+# Залежності для ml/notebooks/mrpc_eda.ipynb
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.5
+jupyter>=1.0
